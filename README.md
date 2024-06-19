@@ -62,8 +62,9 @@ The application will be accessible at http://localhost:5173.
 
  Add the following environment variables to the .env file:
 
-
-VITE_API_KEY=your_google_generative_ai_api_key //javascript
+```js
+VITE_API_KEY=your_google_generative_ai_api_key
+```
 
 Replace your_google_generative_ai_api_key with your actual API key 
 
